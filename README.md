@@ -8,7 +8,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.vmware.com/resources/compatibility/search.php?deviceCategory=vco&amp;productid=42913&amp;deviceCategory=vco&amp;details=1&amp;partner=399&amp;page=1&amp;display_interval=10&amp;sortColumn=Partner&amp;sortOrder=Asc&amp;b=1585262675857">https://www.vmware.com/resources/compatibility/search.php?deviceCategory=vco&amp;productid=42913&amp;deviceCategory=vco&amp;details=1&amp;partner=399&amp;page=1&amp;display_interval=10&amp;sortColumn=Partner&amp;sortOrder=Asc&amp;b=1585262675857</a></p>
+<p><a href="https://support.purestorage.com/Pure1/Pure1_Manage/003_Analytics/Pure1_Manage_-_VM_Analytics">https://support.purestorage.com/Pure1/Pure1_Manage/003_Analytics/Pure1_Manage_-_VM_Analytics</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
